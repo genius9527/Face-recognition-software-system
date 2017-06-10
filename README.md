@@ -4,7 +4,7 @@ A face recognition software system, using QT design interface, face recognition 
 ## **Software Environment:**  
 opencv3.0,QT5.5,Python2.7.13,ubuntu14.04  
 ## **Steps for usage：**  
-1.Make sure your software environment has met the requirements  
+1.Make sure your software environment has met the requirements.
 2.Download the code and change the path,such as the location of the classifier file for opencv, the location of the registration set and the identity set, and so on.  
 3.Install the face_recognition module for python,and you can install it by following commands：`pip2 install face_recognition` or download the `face_recognition-0.1.14-py2.py3-none-any.whl` from https://pypi.python.org/pypi/face_recognition or `compile the source code`.  
 4.You need to put the `dlib_face_recognition.py` into the python library,such as `sudo cp /home/hanlifu/dlib_face_recognition.py /usr/lib/python2.7/dlib_face/recognition.py`.  
