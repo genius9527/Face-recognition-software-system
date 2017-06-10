@@ -7,5 +7,5 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 2.Install the face_recognition module for python,and you can install it by following commands：`pip2 install face_recognition` or download the `face_recognition-0.1.14-py2.py3-none-any.whl` from https://pypi.python.org/pypi/face_recognition or compile the source code.  
 3.You need to put the `dlib_face_recognition.py` into the python library,such as `sudo cp /home/hanlifu/dlib_face_recognition.py /usr/lib/python2.7/dlib_face/recognition.py`.  
 **Effect display：**  
-`Whole_function`
+`Whole_function`  
 ![][Whole_function]
