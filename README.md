@@ -35,10 +35,7 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 
  collection methods of registration set and authentication set:  
  `camera shooting`
- 
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Before the camera is registered.jpg) 
- 
- 
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/user1_register.jpg) 
  
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Camera_failed_to _registered.jpg) 
