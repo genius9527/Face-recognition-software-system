@@ -24,3 +24,37 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 `authentication module fail`
 
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/authentication_module_fail.jpg)  
+
+`registration module`
+
+![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/registration_module.jpg) 
+
+`login module`
+
+![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/login_module.jpg) 
+
+ collection methods of registration set and authentication set:  
+ `camera shooting`
+ 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Before the camera is registered.jpg) 
+ 
+ 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/user1_register.jpg) 
+ 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Camera_failed_to _registered.jpg) 
+ 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Camera_successfully_registered.jpg) 
+ 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After the camera is registered.jpg) 
+ 
+ `local photo upload`
+ 
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local upload failed to register.jpg) 
+  
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local upload succeed to register.jpg) 
+  
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After the local upload registration.jpg) 
+  
+  `User 1 register twice`
+  
+   ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/User 1 register twice.jpg) 
