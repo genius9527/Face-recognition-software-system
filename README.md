@@ -11,5 +11,6 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 `Whole_function`  
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Whole_function.jpg)  
 `home page`  
+
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/home_page.jpg)  
 
