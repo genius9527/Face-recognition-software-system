@@ -35,23 +35,24 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 
  collection methods of registration set and authentication set:  
  `camera shooting`  
- ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Before the camera is registered.jpg)   
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Before_camera.jpg)   
+ 
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/user1_register.jpg) 
  
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Camera_failed_to _registered.jpg) 
  
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Camera_successfully_registered.jpg) 
  
- ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After the camera is registered.jpg) 
+ ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After_camera_registered.jpg) 
  
  `local photo upload`
  
-  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local upload failed to register.jpg) 
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local_failed.jpg) 
   
-  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local upload succeed to register.jpg) 
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Local_succeed.jpg) 
   
-  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After the local upload registration.jpg) 
+  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/After_local_registration.jpg) 
   
   `User 1 register twice`
   
-   ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/User 1 register twice.jpg) 
+   ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/register_twice.jpg) 
