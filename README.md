@@ -8,4 +8,4 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 3.You need to put the `dlib_face_recognition.py` into the python library,such as `sudo cp /home/hanlifu/dlib_face_recognition.py /usr/lib/python2.7/dlib_face/recognition.py`.  
 **Effect display：**  
 `Whole_function`  
-![][Whole_function]
+![][Whole_function.jpg]
