@@ -16,6 +16,7 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 `authentication_module`   
 
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/authentication_module.jpg)  
-![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/authentication_ module_success.jpg)    
+
+![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/authentication_module_success.jpg)   
 
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/authentication_module_fail.jpg)  
