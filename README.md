@@ -33,7 +33,7 @@ opencv3.0,QT5.5,Python2.7.13,ubuntu14.04
 
 ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/login_module.jpg) 
 
- **collection methods of registration set and authentication set:**
+ **collection methods of registration set and authentication set:**  
  `camera shooting`  
  
  ![](https://github.com/genius9527/Face-recognition-software-system/raw/master/effect_photo/Before_camera.jpg)   
